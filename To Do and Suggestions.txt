@@ -18,6 +18,8 @@ TO DO
   Test out Tinker's Construct for progression
   Replace Ice and Fire's Raw Silver with Immersive Engineering's
   Add alternative recipe to Diving Helmet and Diving Boots so copper armor isn't a waste
+  Add Create: Numismatic coins as quest rewards
+  Provide a shop in FTB Quests tab for the coins to be used
 
 Suggestions
   Example suggestion
