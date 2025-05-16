@@ -6,6 +6,8 @@ Mods to be added to the server:
     Trash Cans (not tested)
     Your Items are Safe (not tested)
     Inventory Essentials
+    Recipe Generator
+        https://www.curseforge.com/minecraft/mc-mods/recipe-generator
 
 Mods to be removed from the server:
 
