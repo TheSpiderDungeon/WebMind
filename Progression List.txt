@@ -1,0 +1,45 @@
+This is the reference for the intended progression of the modpack. I've started the general progression to serve as an example of the formatting.
+
+M = Major progression milestone
+     The main path of progressing through the modpack. Each new dimension is a major progression milestone.
+m = Minor progression milestone 
+     Small progression stages that don't directly progress the modpack story, but do contribute to progression. I.E. iron ingots, diamond armor, Create's steam power, Immersive Engineering's
+     blast furnace, or whatever other methods of progression we want to lock the story behind that aren't huge events. Major bosses count as minor progression milestones, but are listed separately
+     for organizational reasons.
+B = Major boss
+     Bosses are the major progression milestones of each dimension. Ideally, each major boss has to be defeated to progress to the next dimension, but some minor bosses may work as alternative routes.
+b = Minor boss
+     Minor bosses are optional bosses or alternatives to major bosses (if listed as such) that can provide the player with extra non-essential gear or access to a new minor milestone.
+! = Important note
+    This denotes a serious issue or important talking point about something in progression that will have to be dealt with before any major release.
+
+
+M Overworld
+    Pre-Nether
+        m Brass (Create mod)
+        m Some kind of magic system (Iron's Spells) 
+        m Some kind of preliminary tech (Immersive Engineering)
+        B Warden
+            m Echo Stone
+
+    Post-Nether
+        m (Alex's Caves)
+
+    Pre-End
+        b Dragons (Ice and Fire)
+
+M Nether
+    Unlocked after defeating Warden and activating ancient city portal with an Echo Stone.
+    Pre-Aether
+        m
+
+    Post-Aether
+        m
+
+M Aether
+    Unlocked after building an aether portal out of glowstone and activating it with a bucket.
+        ! Currently, nothing is preventing the player from obtaining glowstone pre-nether, so aether access will have to be dealt with somehow. Perhaps removing glowstone from loot tables in the overworld?
+    m Quartz + Netherite
+
+M End
+    B Ender Dragon

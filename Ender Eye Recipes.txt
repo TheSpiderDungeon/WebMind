@@ -1,0 +1,180 @@
+There are 16 new eyes in the End Remastered mod that have to be used to activate the end portal. By default in the mod, these are random drops from various sources, but most are being removed
+from loot tables in favor of progression-based acquisition. The eyes and their crafting recipes are here for reference.
+
+    Evil Eye
+    Old Eye
+    Magical Eye
+    Rogue Eye
+    Cursed Eye
+    Nether Eye
+    Cold Eye
+    Black Eye
+    Lost Eye
+    Exotic Eye
+    Cryptic Eye
+    Corrupted Eye
+    Witch Eye
+    Undead Eye
+    Guardian Eye
+    Wither Eye
+
+Evil Eye
+    X = MODIFIER
+    E = Eye of Wrought
+    G = Enchanted Gravitite
+    B = Dragon Blood (Fire)
+    P = Wrought Helm
+
+    ' X '
+    'BEP'
+    ' G ' 
+Old Eye
+    X = MODIFIER
+    E = Cyclops Eye
+    G = Enchanted Gravitite
+    B = Dragon Blood (Fire)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Magical Eye
+    X = Tesla Bulb
+    E = Mana Upgrade Orb
+    G = Enchanted Gravitite
+    B = Dragon Blood (Lightning)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Rogue Eye (subject to change)
+    X = Totem of Possession
+    E = EYE/ORB
+    G = Enchanted Gravitite
+    B = Dragon Blood (Fire)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Cursed Eye
+    X = MODIFIER
+    E = EYE/ORB
+    G = Enchanted Gravitite
+    B = Dragon Blood (Ice)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G ' 
+Nether Eye
+    X = Tectonic Shard
+    E = Eye of Monstrous
+    G = Enchanted Gravitite
+    B = Dragon Blood (Fire)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G ' 
+Cold Eye
+    X = MODIFIER
+    E = EYE/ORB
+    G = Enchanted Gravitite
+    B = Dragon Blood (Ice)
+    P = Ice Crystal
+
+    ' X '
+    'BEP'
+    ' G ' 
+Black Eye
+    X = Depth Charge
+    E = Eye of Abyss
+    G = Enchanted Gravitite
+    B = Dragon Blood (Ice)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Lost Eye
+    X = Heart of Iron
+    E = EYE/ORB
+    G = Enchanted Gravitite
+    B = Dragon Blood (Lightning)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Exotic Eye
+    X = Sea Serpent Scales
+    E = Heart of the Sea
+    G = Enchanted Gravitite
+    B = Dragon Blood (Lightning)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G ' 
+Cryptic Eye
+    X = Heap of Experience
+    E = Ambersol
+    G = Enchanted Gravitite
+    B = Dragon Blood (Lightning)
+    P = Sun Altar
+
+    ' X '
+    'BEP'
+    ' G '
+Corrupted Eye
+    X = Aechor Petal
+    E = EYE/ORB
+    G = Enchanted Gravitite
+    B = Dragon Blood (Lightning)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Witch Eye
+    X = Aechor Petal
+    E = Witch Pupil
+    G = Enchanted Gravitite
+    B = Dragon Blood (Ice)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Undead Eye
+    X = Aechor Petal
+    E = Undead Soul
+    G = Enchanted Gravitite
+    B = Dragon Blood (Fire)
+    P = Dread Shard
+
+    ' X '
+    'BEP'
+    ' G '
+Guardian Eye
+    X = MODIFIER
+    E = EYE/ORB
+    G = Enchanted Gravitite
+    B = Dragon Blood (Fire)
+    P = BOSS ITEM
+
+    ' X '
+    'BEP'
+    ' G '
+Wither Eye
+    X = Wither Skeleton Skull
+    E = Cockatrice Eye
+    G = Enchanted Gravitite
+    B = Dragon Blood (Ice)
+    P = Nether Star
+
+    ' X '
+    'BEP'
+    ' G '
