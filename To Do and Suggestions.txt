@@ -1,0 +1,24 @@
+A To Do list for the modpack, as well as a section for suggestions.
+
+TO DO
+  Fix drone spawns
+  Consolidate metals, tools, armors, etc.
+  Reduce damage of "Stress" starter pistol from 7 to 4
+  Reduce mining speed of flint tools
+  Blacklist Alex's Caves biomes from the Explorer's Compass
+  Disable Railgun (Immersive Engineering)
+  Disable the Drone Constructor or whatever it's called
+  Reduce Warden's health and damage
+  Change Echo Stone recipe to include Warden Tendril
+  Remove Stone Sword from Wither Skeleton loot table because honestly fuck that
+  Mechanical Crafter recipe for the Elytra
+  Add Cataclysm eyes to the End Remastered eye recipes to reduce confusion
+  Make tools harder to craft
+    Currently, I think most things don't lose durability, which I think could be be fun to work around, but I don't know what caused it.
+  Test out Tinker's Construct for progression
+  Replace Ice and Fire's Raw Silver with Immersive Engineering's
+  Add alternative recipe to Diving Helmet and Diving Boots so copper armor isn't a waste
+
+Suggestions
+  Example suggestion
+    Reasoning/sub-example
