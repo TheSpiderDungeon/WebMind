@@ -1,11 +1,7 @@
 This is the reference for the intended progression of the modpack. I've started the general progression to serve as an example of the formatting.
 
-M = Major progression milestone
-     The main path of progressing through the modpack. Each new dimension is a major progression milestone.
-m = Minor progression milestone 
-     Small progression stages that don't directly progress the modpack story, but do contribute to progression. I.E. iron ingots, diamond armor, Create's steam power, Immersive Engineering's
-     blast furnace, or whatever other methods of progression we want to lock the story behind that aren't huge events. Major bosses count as minor progression milestones, but are listed separately
-     for organizational reasons.
+M = Progression milestone 
+     Progression stages that progress the modpack story either directly or indirectly. I.E. iron ingots, diamond armor, Create's steam power, Immersive Engineering's blast furnace, or whatever other methods of progression we want to lock the story behind that aren't huge events. Major bosses count as minor progression milestones, but are listed separately for organizational reasons.
 B = Major boss
      Bosses are the major progression milestones of each dimension. Ideally, each major boss has to be defeated to progress to the next dimension, but some minor bosses may work as alternative routes.
 b = Minor boss
@@ -14,32 +10,41 @@ b = Minor boss
     This denotes a serious issue or important talking point about something in progression that will have to be dealt with before any major release.
 
 
-M Overworld
-    Pre-Nether
-        m Brass (Create mod)
-        m Some kind of magic system (Iron's Spells) 
-        m Some kind of preliminary tech (Immersive Engineering)
-        B Warden
-            m Echo Stone
 
-    Post-Nether
-        m (Alex's Caves)
 
-    Pre-End
-        b Dragons (Ice and Fire)
+Overworld
+     Pre-Nether
+          M Brass (Create mod)
+          M Some kind of magic system (Iron's Spells) 
+          M Some kind of preliminary tech (Immersive Engineering)
+          B Warden
+               M Echo Stone
+     Pre-Aether
+          M Abyssal Chasm (Alex's Caves)
+     Pre-End
+          M Magnetic Caves
+          b Dragons (Ice and Fire)
 
-M Nether
-    Unlocked after defeating Warden and activating ancient city portal with an Echo Stone.
-    Pre-Aether
-        m
+Nether
+     ! Unlocked after defeating Warden and activating ancient city portal with an Echo Stone.
+     Pre-Aether
+          M Quartz + Netherite
+               ! Quartz will become a necessary component for the more advanced crafting types. Exact crafting types are currently unknown, so we'll need to determine what crafting we want to lock behind the Nether (and by extension, behind the Ancient City)
+     Post-Aether?
 
-    Post-Aether
-        m
+Aether
+     ! Unlocked after building an aether portal out of glowstone and activating it with a bucket.
+     ! Currently, nothing is preventing the player from obtaining glowstone pre-nether, so aether access will have to be dealt with somehow. Perhaps removing glowstone from loot tables in the overworld?
+     B Slider
+     B Valkyries
+     B Sun God
+     B King Aerwhale
 
-M Aether
-    Unlocked after building an aether portal out of glowstone and activating it with a bucket.
-        ! Currently, nothing is preventing the player from obtaining glowstone pre-nether, so aether access will have to be dealt with somehow. Perhaps removing glowstone from loot tables in the overworld?
-    m Quartz + Netherite
+End
+     Pre-Dragon
+          ! There may not be a way for players to get off the End Island
+          M Elytra
+          B Ender Dragon
+               ! Nothing is preventing the Ender Dragon fight from occurring as soon as players enter the End
 
-M End
-    B Ender Dragon
+     Post-Dragon
