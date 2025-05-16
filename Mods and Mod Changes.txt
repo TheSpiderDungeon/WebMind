@@ -8,8 +8,12 @@ Mods to be added to the server:
     Inventory Essentials
     Recipe Generator
         https://www.curseforge.com/minecraft/mc-mods/recipe-generator
+    Ore Harvester
+        https://modrinth.com/mod/ore-harvester
 
 Mods to be removed from the server:
+    Veinminer
+        https://modrinth.com/datapack/veinminer
 
 Tweak Mods
     KubeJS
