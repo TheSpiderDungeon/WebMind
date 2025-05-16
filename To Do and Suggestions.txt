@@ -22,6 +22,7 @@ TO DO
   Provide a shop in FTB Quests tab for the coins to be used
   At LEAST 5 End Remastered eyes MUST have Aether items.
   Change Brass Propeller recipe to actually use brass
+  Change iron ingot in Stonecutter recipe to iron plate
 
 Suggestions
   Example suggestion
