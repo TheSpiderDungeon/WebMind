@@ -2,7 +2,6 @@ A To Do list for the modpack, as well as a section for suggestions.
 
 TO DO
   Fix drone spawns
-  Reduce damage of "Stress" starter pistol from 7 to 4
   Reduce mining speed of flint tools
   Blacklist Alex's Caves biomes from the Explorer's Compass
   Disable Railgun (Immersive Engineering)
@@ -23,7 +22,6 @@ TO DO
     They don't break logs. Likely an issue with Wood Tools are Dumb.
   Stonecutter recipe for glass panes
   Remove crafting table recipe for Aluminum Rod
-  Remove durability
 
 Suggestions
   Example suggestion
