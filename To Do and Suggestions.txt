@@ -23,6 +23,8 @@ TO DO
   At LEAST 5 End Remastered eyes MUST have Aether items.
   Change Brass Propeller recipe to actually use brass
   Change iron ingot in Stonecutter recipe to iron plate
+  Fix paxels
+    They don't break logs. Likely an issue with Wood Tools are Dumb.
 
 Suggestions
   Example suggestion
