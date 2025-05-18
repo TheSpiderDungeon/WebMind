@@ -25,6 +25,7 @@ TO DO
   Change iron ingot in Stonecutter recipe to iron plate
   Fix paxels
     They don't break logs. Likely an issue with Wood Tools are Dumb.
+  Stonecutter recipe for glass panes
 
 Suggestions
   Example suggestion
