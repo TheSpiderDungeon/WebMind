@@ -22,6 +22,7 @@ TO DO
     They don't break logs. Likely an issue with Wood Tools are Dumb.
   Stonecutter recipe for glass panes
   Remove crafting table recipe for Aluminum Rod
+  MAKE WOODEN ELYTRA WAY HARDER TO CRAFT, OH MY GOD. LOCK THAT SHIT BEHIND THE AETHER.
 
 Suggestions
   Example suggestion
