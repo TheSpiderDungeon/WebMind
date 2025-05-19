@@ -23,6 +23,7 @@ TO DO
   Stonecutter recipe for glass panes
   Remove crafting table recipe for Aluminum Rod
   MAKE WOODEN ELYTRA WAY HARDER TO CRAFT, OH MY GOD. LOCK THAT SHIT BEHIND THE AETHER.
+  Remove the Wood Tools are Dumb mod
 
 Suggestions
   Example suggestion
