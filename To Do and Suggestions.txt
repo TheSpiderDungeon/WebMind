@@ -1,9 +1,6 @@
 A To Do list for the modpack, as well as a section for suggestions.
 
 TO DO
-  Fix drone spawns
-  Reduce mining speed of flint tools
-  Blacklist Alex's Caves biomes from the Explorer's Compass
   Disable Railgun (Immersive Engineering)
   Disable the Drone Constructor or whatever it's called
   Reduce Warden's health and damage
@@ -18,16 +15,11 @@ TO DO
   At LEAST 5 End Remastered eyes MUST have Aether items.
   Change Brass Propeller recipe to actually use brass
   Change iron ingot in Stonecutter recipe to iron plate
-  Fix paxels
-    They don't break logs. Likely an issue with Wood Tools are Dumb.
   Stonecutter recipe for glass panes
   Remove crafting table recipe for Aluminum Rod
   MAKE WOODEN ELYTRA WAY HARDER TO CRAFT, OH MY GOD. LOCK THAT SHIT BEHIND THE AETHER.
-  Remove the Wood Tools are Dumb mod
   Give Archer class an infinity bow and some arrows
   Give melee classes iron weapons
-  Log in protection
-  Log in health fix
 
 Suggestions
   Example suggestion
