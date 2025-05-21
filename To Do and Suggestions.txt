@@ -26,6 +26,8 @@ TO DO
   Remove the Wood Tools are Dumb mod
   Give Archer class an infinity bow and some arrows
   Give melee classes iron weapons
+  Log in protection
+  Log in health fix
 
 Suggestions
   Example suggestion
