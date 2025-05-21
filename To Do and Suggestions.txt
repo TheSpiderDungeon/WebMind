@@ -1,10 +1,7 @@
 A To Do list for the modpack, as well as a section for suggestions.
 
 TO DO
-  Disable Railgun (Immersive Engineering)
-  Disable the Drone Constructor or whatever it's called
   Reduce Warden's health and damage
-  Change Echo Stone recipe to include Warden Tendril
   Remove Stone Sword from Wither Skeleton loot table because honestly fuck that
   Mechanical Crafter recipe for the Elytra
   Add Cataclysm eyes to the End Remastered eye recipes to reduce confusion
@@ -16,7 +13,6 @@ TO DO
   Change Brass Propeller recipe to actually use brass
   Change iron ingot in Stonecutter recipe to iron plate
   Stonecutter recipe for glass panes
-  Remove crafting table recipe for Aluminum Rod
   MAKE WOODEN ELYTRA WAY HARDER TO CRAFT, OH MY GOD. LOCK THAT SHIT BEHIND THE AETHER.
   Give Archer class an infinity bow and some arrows
   Give melee classes iron weapons
