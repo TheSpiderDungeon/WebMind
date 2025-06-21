@@ -1,0 +1,4 @@
+TO DO
+  Reduce Warden's health and damage
+  Remove Stone Sword from Wither Skeleton loot table because honestly fuck that
+  Change Brass Propeller recipe to actually use brass
