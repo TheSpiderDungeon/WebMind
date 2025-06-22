@@ -3,3 +3,5 @@ TO DO
   Remove Stone Sword from Wither Skeleton loot table because honestly fuck that
   Change Brass Propeller recipe to actually use brass
   Update in-game documentation
+  Fix Restricted Portals achievement data
+  Make game stages for dynamic difficulty
