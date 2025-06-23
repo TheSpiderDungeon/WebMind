@@ -5,3 +5,4 @@ TO DO
   Update in-game documentation
   Fix Restricted Portals achievement data
   Make game stages for dynamic difficulty
+  Harder recipe for pocketgps:gps
