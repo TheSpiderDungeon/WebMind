@@ -1,9 +1,9 @@
 TO DO
-  Reduce Warden's health and damage
   Remove Stone Sword from Wither Skeleton loot table because honestly fuck that
   Change Brass Propeller recipe to actually use brass
   Update in-game documentation
   Fix Restricted Portals achievement data
   Make game stages for dynamic difficulty
   Harder recipe for pocketgps:gps
-  IE press recipe for tetra:forged_beam
+  Relic/Artifacts compat
+    https://modrinth.com/mod/rar-compat
