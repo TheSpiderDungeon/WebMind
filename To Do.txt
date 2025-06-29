@@ -4,3 +4,4 @@ TO DO
   Update in-game documentation
   Fix Restricted Portals achievement data
   Test pre-ancient city Nether rejection with bottle of Dimensional Tears
+  Unify IE and CSA copper wires
