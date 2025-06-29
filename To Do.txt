@@ -3,7 +3,4 @@ TO DO
   Change Brass Propeller recipe to actually use brass
   Update in-game documentation
   Fix Restricted Portals achievement data
-  Make game stages for dynamic difficulty
-  Harder recipe for pocketgps:gps
-  Relic/Artifacts compat
-    https://modrinth.com/mod/rar-compat
+  Test pre-ancient city Nether rejection with bottle of Dimensional Tears
