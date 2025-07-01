@@ -6,3 +6,4 @@ TO DO
   Unify IE and CSA copper wires
   Fix hat accessories that should be in the face slot
   Fuck with the battle music
+  Gate powerful guns behind irons_spellbooks:cinder_essence / cataclysm:burning_ashes / aether:zanite_gemstone / deep_aether:stratus_ingot
